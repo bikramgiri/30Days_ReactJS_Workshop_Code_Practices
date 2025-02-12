@@ -1,5 +1,5 @@
 import React from 'react'
-import PropTypes from 'prop-types'
+// import PropTypes from 'prop-types'
 
 // We can use any name () in the function parameter like props and other name
 const Button = (props) => {
